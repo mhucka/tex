@@ -32,6 +32,7 @@
 \RequirePackage[T1]{fontenc}
 \RequirePackage{titlesec}
 \RequirePackage[font={small,it}]{caption}
+\RequirePackage{etoolbox}
 
 \RequirePackage[pdftex]{graphicx}
 \RequirePackage[pdftex,breaklinks=true,colorlinks=true,
@@ -59,6 +60,12 @@ citecolor=darkred,linkcolor=darkblue]{hyperref}
 
 % Style adjustments.
 % .............................................................................
+
+% Add "concept note" in light gray color on the front page and omit the page
+% number from the front page.
+
+\patchcmd{\@maketitle}{\@title}{\vspace*{-0.6in}\textcolor{gray}{\large Concept Note}\\[1.25ex]\@title{}}{}{}
+\apptocmd{\maketitle}{\thispagestyle{empty}}{}{}
 
 % Reduce spacing after section headings.
 
