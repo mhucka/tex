@@ -1,7 +1,6 @@
 %% Filename:     myconceptnote.cls                        -*- mode: latex -*-
 %% Description:  LaTeX style file for simple concept notes
 %% Author(s):    Michael Hucka <mhucka@caltech.edu>
-%% Organization: California Institute of Technology
 %% Date created: 2015-11-25
 
 \NeedsTeXFormat{LaTeX2e}
