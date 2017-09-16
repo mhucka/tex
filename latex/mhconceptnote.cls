@@ -270,7 +270,7 @@ citecolor=darkred,linkcolor=darkblue]{hyperref}
     \message{Shell escapes enabled.}
     \newcommand{\dateAndVersion}{%
       \immediate\write18{git rev-list --count --full-history HEAD > \jobname.info}%
-      {\normalsize\today\quad(File revision \input{\jobname.info}\unskip)}}
+      {\normalsize\today\quad(Version \input{\jobname.info}\unskip)}}
   \else
     % \message{Shell escape not enabled; cannot obtain git revision number.}
     \newcommand{\dateAndVersion}{\normalsize\today}
