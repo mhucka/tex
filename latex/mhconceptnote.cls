@@ -114,6 +114,10 @@ citecolor=darkred,linkcolor=darkblue]{hyperref}
 \setlength{\intextsep}{1.5em plus 4pt minus 0pt}
 \setlength{\textfloatsep}{1.5em plus 4pt minus 0pt}
 
+% Spacing of bibliography items.
+
+\setlength{\bibsep}{1ex plus 0.3ex}
+
 % Make floats that appear alone on a page appear at the top, rather than
 % (as is the LaTeX default) appearing centered vertically on the page.
 
