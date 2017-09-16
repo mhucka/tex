@@ -25,7 +25,7 @@
 \RequirePackage{scrextend}
 \RequirePackage{xhfill}
 \RequirePackage{suffix}
-\RequirePackage{enumitem}
+\RequirePackage[inline]{enumitem}
 \RequirePackage{calc}
 \RequirePackage{varwidth}
 \RequirePackage[american]{varioref}
@@ -33,7 +33,6 @@
 \RequirePackage{titlesec}
 \RequirePackage[font={small,it}]{caption}
 \RequirePackage{etoolbox}
-\RequirePackage[inline]{enumitem}
 
 \RequirePackage[pdftex]{graphicx}
 \RequirePackage[pdftex,breaklinks=true,colorlinks=true,
