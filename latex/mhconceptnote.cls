@@ -33,6 +33,7 @@
 \RequirePackage{titlesec}
 \RequirePackage[font={small,it}]{caption}
 \RequirePackage{etoolbox}
+\RequirePackage[inline]{enumitem}
 
 \RequirePackage[pdftex]{graphicx}
 \RequirePackage[pdftex,breaklinks=true,colorlinks=true,
