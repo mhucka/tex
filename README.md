@@ -5,11 +5,9 @@ This repository contains TeX/LaTeX files that I've written or use commonly.
 
 ----
 
-*Author*:      [mhucka](https://github.com/mhucka)
-
-*License*:      Unless otherwise noted, this content is licensed under the [Creative Commons CC-BY](https://tldrlegal.com/license/creative-commons-attribution-4.0-international-(cc-by-4)) license.
-
-*Repository*:   https://github.com/mhucka/templates
+*Author*:      [mhucka](https://github.com/mhucka)<br>
+*License*:      Unless otherwise noted, this content is licensed under the [Creative Commons CC-BY](https://tldrlegal.com/license/creative-commons-attribution-4.0-international-(cc-by-4)) license.<br>
+*Repository*:   https://github.com/mhucka/tex
 
 ☀ Introduction
 -----------------------------
