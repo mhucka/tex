@@ -1,6 +1,6 @@
 TeX
 ===
-
+<img align="right" width="150pt" src=".graphics/LaTeX_logo.svg">
 This repository contains TeX/LaTeX files that I've written or use commonly.
 
 ----
@@ -24,3 +24,5 @@ Please use the [GitHub issue tracker](https://github.com/mhucka/templates/issues
 -----------------------
 
 Some content or ideas may have been borrowed from other sources.  As much as possible, I try to reference and acknowledge uses of other people's work.  Look in the individual files for more information.
+
+The LaTeX icon on this page came from [WikiPedia](https://commons.wikimedia.org/wiki/File:LaTeX_logo.svg). (Original author: [EmilJ](https://en.wikipedia.org/wiki/User:EmilJ?rdfrom=commons:User:EmilJ).)
